@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Family Map Client</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+
+    <string name="event_view">Event View</string>
+    <string name="person_activity">Person View</string>
+    <string name="search_activity">Search</string>
+    <string name="settings_activity">Settings</string>
+
+    <!--  Field Names  -->
+    <string name="serverHost"><b>Server Host:</b></string>
+    <string name="portNumber"><b>Server Port:</b></string>
+    <string name="username"><b>Username:</b></string>
+    <string name="password"><b>Password:</b></string>
+    <string name="firstName"><b>First Name:</b></string>
+    <string name="lastName"><b>Last Name:</b></string>
+    <string name="email"><b>Email:</b></string>
+
+    <!-- Radio Buttons  -->
+    <string name="gender"><b>Gender:</b></string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <!--  Button Names  -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logoutButton">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="city_and_country">City and Country Unavailable</string>
+    <string name="event_type">Event Type and Year Unavailable</string>
+    <string name="name">Name Unavailable</string>
+    <string name="picture">Picture Unavailable</string>
+    <string name="male_female_icon">Male/FemaleIcon</string>
+    <string name="family_relationship">Family Relationship</string>
+
+    <!--Person Activity-->
+    <string name="father"><b>Father</b></string>
+    <string name="mother"><b>Mother</b></string>
+    <string name="spouse"><b>Spouse</b></string>
+    <string name="child"><b>Child</b></string>
+    <string name="life_events"><b>Life Events</b></string>
+    <string name="family_members"><b>Family Members</b></string>
+    <string name="first_text_view">First Text View</string>
+    <string name="female_events">Female Events</string>
+    <string name="male_events">Male Events</string>
+    <string name="mother_s_side_events">Mother\'s Side Events</string>
+    <string name="father_s_side_events">Father\'s Side Events</string>
+    <string name="spouse_lines">Spouse Lines</string>
+    <string name="family_tree_lines">Family Tree Lines</string>
+    <string name="life_story_lines">Life Story Lines</string>
+    <string name="tap_location_for_details">Tap location for details</string>
+
+</resources>
